@@ -7,7 +7,6 @@ Simple, easy and performance countdown for angular
 
 ## Demo
 
-- [Live Demo](https://cipchk.github.io/ngx-countdown/)
 - [Stackblitz](https://stackblitz.com/edit/ngx-countdown-setup)
 
 ## Usage
