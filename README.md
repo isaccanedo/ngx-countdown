@@ -1,4 +1,4 @@
-# ngx-countdown
+## ngx-countdown
 
 Simple, easy and performance countdown for angular
 
